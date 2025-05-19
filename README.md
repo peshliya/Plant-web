@@ -1,18 +1,11 @@
 🌿 Plant Web Project
-Plantix is a responsive and modern website designed to promote plant care, gardening tips, and indoor plant collections. Built using HTML, CSS this project is perfect for beginners learning front-end web development or for use as a plant shop or blog template.
 
-✅ Features:
-Clean and nature-inspired design
+This is a simple and responsive website about plants, built using HTML, CSS, and JavaScript. The site includes sections for plant types, care tips, and a contact form. It’s designed with a clean, green-inspired layout and works well on both desktop and mobile devices.
 
-Responsive layout for all devices
+🔧 Technologies Used:
+HTML
+CSS
 
-Sections for plant info, tips, and contact
-
-Simple animations and interactive elements using JavaScript
-
-🛠️ Built With:
-HTML5
-
-CSS3 (Flexbox/Grid)
-
-![image alt]
+![image alt](https://github.com/peshliya/Plant-web/blob/9637cbcc59becbbd11316dc2174779a4fac58f2b/01.png)
+![image alt](https://github.com/peshliya/Plant-web/blob/9637cbcc59becbbd11316dc2174779a4fac58f2b/01.png)
+![image alt](https://github.com/peshliya/Plant-web/blob/9637cbcc59becbbd11316dc2174779a4fac58f2b/01.png)
